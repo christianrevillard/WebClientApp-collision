@@ -1,0 +1,2 @@
+C:\Users\Christian\Development\Projects\Apps\Collisions\bin\Microsoft.NodejsTools.WebRole.dll
+C:\Users\Christian\Development\Projects\Apps\Collisions\obj\Debug\Collisions.njsprojResolveAssemblyReference.cache
